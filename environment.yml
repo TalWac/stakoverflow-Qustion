@@ -1,0 +1,20 @@
+name: Template-Report-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - openpyxl
+  - cimcb_lite
+  - ipython
+  - matplotlib
+  - ipykernel
+  - jupyter
+  - beakerx
+  - plotly
+  - seaborn
+  - chart-studio
+  - nbconvert=5.5
+  - ipywidgets
+prefix: C:\Users\BCDD\Anaconda3\envs\Template-Report-env

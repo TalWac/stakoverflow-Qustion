@@ -19,4 +19,5 @@ dependencies:
   - pip
   - pip:
     - cimcb_lite
+    - itables
 prefix: C:\Users\BCDD\Anaconda3\envs\Template-Report-env

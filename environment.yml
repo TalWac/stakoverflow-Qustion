@@ -16,6 +16,7 @@ dependencies:
   - chart-studio
   - nbconvert=5.5
   - ipywidgets
+  - clustergrammer2
   - pip
   - pip:
     - cimcb_lite

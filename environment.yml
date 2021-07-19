@@ -16,9 +16,9 @@ dependencies:
   - chart-studio
   - nbconvert=5.5
   - ipywidgets
-  - clustergrammer2
   - pip
   - pip:
     - cimcb_lite
     - itables
+    - clustergrammer2
 prefix: C:\Users\BCDD\Anaconda3\envs\Template-Report-env
